@@ -6,6 +6,7 @@ english_letter_frequency = {
     'Q': 0.10, 'Z': 0.07
 }
 
+
 c : int = 26  # English Alphabets
 def get_letter_occurences(text : str) -> dict[str, int]:
     result = {}
@@ -15,6 +16,7 @@ def get_letter_occurences(text : str) -> dict[str, int]:
         result[char] += 1
     return result
 
+
 # operates on uppercases
 def calculate_ic(text : str) -> float:
     numerator : int = 0
@@ -23,27 +25,20 @@ def calculate_ic(text : str) -> float:
     occurences : dict[str, int] = get_letter_occurences(text) 
 
     for i in range(c):
-        numerator += (occurences[chr(i+65)]*(occurences[chr(i+65)]-1))
+        numerator += (occurences.get(chr(i+65), 0)*(occurences.get(chr(i+65), 0)-1))
     return numerator/denominator
+
 
 # uses Chi-Squared Correlation Test
 def text_frequency_score(text : str):
-    expected : list[float] = [0 for i in range(c)]
-    observed : list[float] = [0 for i in range(c)]
+    expected : list[float] = [0 for _ in range(c)]
+    observed : list[float] = [0 for _ in range(c)]
 
     occurences = get_letter_occurences(text)
     sums = 0
     for i in range(c):
-        expected[i] = english_letter_frequency[chr(i+65)] * len(text)
-        observed[i] = occurences[chr(i+65)]
+        expected[i] = (english_letter_frequency[chr(i+65)]/100) * len(text)
+        observed[i] = occurences.get(chr(i+65), 0)
 
-        sums += pow(expected[i]*observed[i], 2)/expected[i]
+        sums += pow(expected[i]-observed[i], 2)/expected[i]
     return sums
-# HOW TO USE
-# To test a column (AFTER finding key length)
-# try all 26 caesar shifts on the column
-# the decrypted column after, calculate the CHI-Squared score
-# the shifts with the lowest score is likely the correct one
-
-    
-     
