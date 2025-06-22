@@ -1,10 +1,11 @@
 # Vigenère Cipher Cracker with Index of Coincidence
 
 ## 📖 Description
-This project containts Python implementation of a Vigenère cipher cracker. The cracker works by finding the most probable length of the key through Index of Coincidence calculation that utilizes Dynammic Programming to speed up the process by tabulating each IC values found and then solving the minimization. <br>
-After the IC values are found, and the length of the key is determined, it then separates the string into a matrix where each row is as long as the determined length of the key, and for each column in that matrix, we test out each possible shift (0-25) to see which shift is the most english-like. The English-like calculation is done using Chi-Squared Goodness Of Fit test
+This project containts Python implementation of a **Vigenère cipher cracker**. The cracker works by finding key length through **Index of Coincidence** calculation with **Dynammic Programming**
 
-This project is a part of Algorthmic Strategy course's paper titled "*Attack on the Vigenère Cipher Key Through Index of Coincidence Optimization Based on Dynamic Programming*" 
+After key length is determined, the string is structured as a matrix, and for each column in that matrix,  test each possible shift (0-25) to see which shift is the most english-like. The English-like calculation is done using **Chi-Squared Goodness Of Fit test**
+
+This project is a part of IF2211 Algorithmic Strategy course's paper titled "*Attack on the Vigenère Cipher Key Through Index of Coincidence Optimization Based on Dynamic Programming*" 
 
 ## Concepts Used
 - Dynammic Programming
