@@ -1,5 +1,5 @@
 import text_processor as TP
-import index_of_coincidence as IC
+import calculation as IC
 
 ENGLISH_IC = 0.067
 
