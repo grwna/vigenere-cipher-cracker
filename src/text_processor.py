@@ -34,7 +34,3 @@ def get_shortest_non_repeating_sequence(text: str) -> str:
             if (prefix*(n//length) == text):
                 return prefix
     return text
-
-    
-if __name__ == "__main__":
-    print(clean_text(" aksjdaiwuj!8* ad ?.;\";"))

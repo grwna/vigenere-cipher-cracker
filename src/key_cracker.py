@@ -22,6 +22,8 @@ def calculate_key_length(ciphertext: str, max_key_length=20) -> int:
 
 
 def crack_key(ciphertext: str) -> str:
+    if len(ciphertext) == 0:
+        raise ValueError("Length of text must be greater than 0!")
     ciphertext = ciphertext.upper()
     key_length = calculate_key_length(ciphertext)
 

@@ -17,9 +17,3 @@ def encrypt(text: str, key: str, encrypt=True) -> str:
 
 def decrypt(text: str, key: str) -> str:
     return encrypt(text, key, False)
-
-if __name__ == "__main__":
-    plain = "The quick brown fox jumps over 13 lazy dogs."
-    key = "cryptii"
-    print(encrypt(plain, key))
-    print(decrypt(encrypt(plain, key), key))
