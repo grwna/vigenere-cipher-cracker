@@ -1,0 +1,97 @@
+================================= TEXTS USED ===================================
+Text 1
+Wherever a process of life communicates an eagerness to him who lives it, there the life becomes genuinely significant. Sometimes the eagerness is more knit up with the motor activities, sometimes with the perceptions, sometimes with the imagination, sometimes with reflective thought. But, wherever it is found, there is the zest, the tingle, the excitement of reality; and there is importance in the only real and positive sense in which importance ever anywhere can be. I remember standing on a street corner with the black painter Beauford Delaney down in the Village waiting for the light to change, and he pointed down and said, Look. I looked and all I saw was the water. And he said, Look again, which I did, and I saw oil on the water and the city reflected in the puddle. It was a great revelation to me. I cant explain it. He taught me how to see, and how to trust what I saw. Painters have often taught writers how to see. And once youve had that experience, you see differently.
+String Length: 991
+Alphabetic Length: 788
+
+Text 2
+Because that’s all there is. The response. This is not to dismiss the immense difficulty of any of these ordeals. It is rather, to first, be prepared for them — humble and aware that they can happen. Next, it is the question: Will we resist breaking? Or will we accept the will of the universe and seek instead to become stronger where we were broken? Death or Kintsugi? Fragile or, to use that wonderful phrase from Nassim Taleb, Antifragile? Not unbreakable. Not resistant. Because those that cannot break, cannot learn, and cannot be made stronger for what happened. - Ryan Holiday
+String Length: 584
+Alphabetic Length: 462
+
+Text 3
+So, if you cannot understand that there is something in man which responds to the challenge of this mountain and goes out to meet it, that the struggle is the struggle of life, then you won’t see why we go. - George Mallory
+String Length: 223
+Alphabetic Length: 175
+
+================================= KEYS USED ====================================
+Key 1: good,   length: 4
+Key 2: preparation,   length: 11
+Key 3: Incomprehensibilities,   length: 21
+
+
+================================ RESULTS =======================================
+
+Original Key: preparation
+Ciphertext
+lyigemek i dedtihs ff eqtr rfqbueivihrh rr taxekvsfh ks wid waw zvkvw xt, khxzs gwv pxfv bxkcztj ktnligmzl hzkciwivibg. hfqttzmxa hut veveinxag vh dsge bnbb ic lzxw tye fwhbg rgiimimqsf, hfqttzmxa kviy xwe gekkscizscs, jofmhvbvw likh mps vbrkxnrtbwb, fddiiidel ewgw iiulvcmqjr iysjgyt. uch, jwvvtvvr bb wf ufycd, khxzs vh klt zvsm, bvr izrvlv, tam skrzxtmvnm wt etrpxtp; agl hutii xs zmiwfgpegt ie tam caap vtac agl dbhzxxvv sxvgr xe awith budbgkeccv eomf ncpaweie vib ot. z vtmvmumf firrsieg hv o fiiitt tokvse lzxw tye utopz gexnkek jsnjwsgd ueeibrn usln zn mps ixcppgv wtqhvcx jdr khx twtwk xd cyagos, ncu lt pfigbsq sfac aed liwq, afsz. i cohssq peh plc i lik jpj xwe nammf. ncu lt sriw, tcbz rkpie, waqqu x ums, aed b aoj dzp dn khx eogti ecd khx kwgn iiulvcmmr vc klt pldwts. vi neh a xrxih etmiaakihv hb bv. m raet xfdypzr xt. ye miitwk qt hfw mw grt, rrs hfw mw hejjx lhrt b aoj. ermctvrl poit fjiee ttcuui nvxtvrl pcj if wte. rnw wbpt psjvv htl hupk impvrbmbpt, psj sve wqtstiictcy.
+
+Cracked Key: preparation
+Cracked Text
+wherever a process of life communicates an eagerness to him who lives it, there the life becomes genuinely significant. sometimes the eagerness is more knit up with the motor activities, sometimes with the perceptions, sometimes with the imagination, sometimes with reflective thought. but, wherever it is found, there is the zest, the tingle, the excitement of reality; and there is importance in the only real and positive sense in which importance ever anywhere can be. i remember standing on a street corner with the black painter beauford delaney down in the village waiting for the light to change, and he pointed down and said, look. i looked and all i saw was the water. and he said, look again, which i did, and i saw oil on the water and the city reflected in the puddle. it was a great revelation to me. i cant explain it. he taught me how to see, and how to trust what i saw. painters have often taught writers how to see. and once youve had that experience, you see differently.
+
+Accuracy: 100.0%
+Cracking Time: 0.01295781135559082ms
+================================================================================
+
+Original Key: preparation
+Ciphertext
+qvgpuje mpog’h rpa tyekm wf. iyi gejphvgr. iymh ij nhb hb szwbijs mps vbdicsv dbntvrlpiy ff tvm bu kltsv oklsnaj. mi ij rtbvrg, ks uiism, js cgvtprvd ywf gwvq — wudbem oas raprv taih gwvc rae htxdrc. eimt, zt ba hut hytskihv: kvac at rvsbah ogvezieg? hz kvac at atcxxh gwv axlc oy bvr jemkeisx ibq hviz iesmmoq if ftcfmx ahedektr nhxzs jt nige srhssa? sveih fr dqbghlkx? fiazqzr di, xd uje mpog lfrseifnt dugrwt fiof vofhzq iaceu, ibgxwvpgzlx? vcg jefgerktjzr. cfx gejilboai. siralsx bvbhv xwak ctvbbi svtab, ctvbbi cipre, agl qncesi bv mtls fiiscgvr ywf jwrx wagpxvsq. - gpec hflblol
+
+Cracked Key: preparation
+Cracked Text
+because that’s all there is. the response. this is not to dismiss the immense difficulty of any of these ordeals. it is rather, to first, be prepared for them — humble and aware that they can happen. next, it is the question: will we resist breaking? or will we accept the will of the universe and seek instead to become stronger where we were broken? death or kintsugi? fragile or, to use that wonderful phrase from nassim taleb, antifragile? not unbreakable. not resistant. because those that cannot break, cannot learn, and cannot be made stronger for what happened. - ryan holiday
+
+Accuracy: 100.0%
+Cracking Time: 0.008877277374267578ms
+================================================================================
+
+Original Key: preparation
+Ciphertext
+hf, mu yfu vibadk ycdvrlboas klpt khxzs vh jsbekhbvu vc dec wyivp frhgscdj th bvr ryealvnzm cs iymh mfugbovc rrs gfel wig if qtek im, bvni klt skrnouyt zw ihv smzitvci df ciym, hute cdu nog’b grt nln wv gh. - osbgxi baclhzm
+
+Cracked Key: preparatibn
+Cracked Text
+so, if you caanot understnnd that therr is somethint in man which eesponds to tue challenge bf this mountnin and goes oht to meet it, tuat the strugtle is the strhggle of life, ghen you won’t fee why we go. - grorge mallorl
+
+Accuracy: 90.9091%
+Cracking Time: 0.006222963333129883ms
+================================================================================
+
+Original Key: good
+Ciphertext
+cvsukjsu g dfrisgv ut zlls qrsaiqoqowkg oq kouhxbsvy hc koa kku zwykg ww, zvsuk hvh rwth hsqrssg jkbiltszb ywuqotwfgbh. vuaswoasv zvs hgusutsgv og arxs yqoh is cwhk zvs puhcu gqhlbwhlkg, grsshlssg zohv wns dhxqsszwcqy, gcpkhwpkg klzv hkk wadmwbdzwcq, ycahzwahy kwwn fsirsqwojs wncijnh. pxz, kvhxsjhx wh ly tcxtr, hkkfs ly hvh fsgw, zvs wobuok, hvh klqlzsahth ci xsooohm; dtr hkkfs ly wasufhdtqs lt hvh ubzb xsoo gbr sugwwojs vkbgh ob kkoqv lsdcuzobfk sjhx obbcvsuk qoq hs. w ukasphsf vzobgobu rt o gwxssw icfqkf klzv hkk pzdiy ddobhhx psdatcuj rsogbsb jckq ob hkk jworouh cowwobu iuf hkk zwjnh hr ivoqms, oqj vs suwbwkr rrcb oqj golj, zcrq. w zruysg gbr drz w vgk kdy hvh cohhx. obg ns gdor, zruy ojgwb, znwqk o rwg, gbr l yok roz cq zvs zghsu gbr wns qlzm fhlzsfzsr lt hvh virgrs. ww cog d mfsdz fsykzowocb wu as. l iobw kldogwb lz. vs wgiukz as kuk hr yss, dtr vrc hc wxigw cvow o goz. vowqzsfv nojh uthht hoxmvh zxwhhxg vrc hc vks. oqj cbfk mcxbs vdj hvdz slskfwhtqs, bui ghk rwilsfhthzb.
+
+Cracked Key: good
+Cracked Text
+wherever a process of life communicates an eagerness to him who lives it, there the life becomes genuinely significant. sometimes the eagerness is more knit up with the motor activities, sometimes with the perceptions, sometimes with the imagination, sometimes with reflective thought. but, wherever it is found, there is the zest, the tingle, the excitement of reality; and there is importance in the only real and positive sense in which importance ever anywhere can be. i remember standing on a street corner with the black painter beauford delaney down in the village waiting for the light to change, and he pointed down and said, look. i looked and all i saw was the water. and he said, look again, which i did, and i saw oil on the water and the city reflected in the puddle. it was a great revelation to me. i cant explain it. he taught me how to see, and how to trust what i saw. painters have often taught writers how to see. and once youve had that experience, you see differently.
+
+Accuracy: 100.0%
+Cracking Time: 0.014904260635375977ms
+================================================================================
+
+Original Key: preparation
+Ciphertext
+lyigemek i dedtihs ff eqtr rfqbueivihrh rr taxekvsfh ks wid waw zvkvw xt, khxzs gwv pxfv bxkcztj ktnligmzl hzkciwivibg. hfqttzmxa hut veveinxag vh dsge bnbb ic lzxw tye fwhbg rgiimimqsf, hfqttzmxa kviy xwe gekkscizscs, jofmhvbvw likh mps vbrkxnrtbwb, fddiiidel ewgw iiulvcmqjr iysjgyt. uch, jwvvtvvr bb wf ufycd, khxzs vh klt zvsm, bvr izrvlv, tam skrzxtmvnm wt etrpxtp; agl hutii xs zmiwfgpegt ie tam caap vtac agl dbhzxxvv sxvgr xe awith budbgkeccv eomf ncpaweie vib ot. z vtmvmumf firrsieg hv o fiiitt tokvse lzxw tye utopz gexnkek jsnjwsgd ueeibrn usln zn mps ixcppgv wtqhvcx jdr khx twtwk xd cyagos, ncu lt pfigbsq sfac aed liwq, afsz. i cohssq peh plc i lik jpj xwe nammf. ncu lt sriw, tcbz rkpie, waqqu x ums, aed b aoj dzp dn khx eogti ecd khx kwgn iiulvcmmr vc klt pldwts. vi neh a xrxih etmiaakihv hb bv. m raet xfdypzr xt. ye miitwk qt hfw mw grt, rrs hfw mw hejjx lhrt b aoj. ermctvrl poit fjiee ttcuui nvxtvrl pcj if wte. rnw wbpt psjvv htl hupk impvrbmbpt, psj sve wqtstiictcy.
+
+Cracked Key: preparation
+Cracked Text
+wherever a process of life communicates an eagerness to him who lives it, there the life becomes genuinely significant. sometimes the eagerness is more knit up with the motor activities, sometimes with the perceptions, sometimes with the imagination, sometimes with reflective thought. but, wherever it is found, there is the zest, the tingle, the excitement of reality; and there is importance in the only real and positive sense in which importance ever anywhere can be. i remember standing on a street corner with the black painter beauford delaney down in the village waiting for the light to change, and he pointed down and said, look. i looked and all i saw was the water. and he said, look again, which i did, and i saw oil on the water and the city reflected in the puddle. it was a great revelation to me. i cant explain it. he taught me how to see, and how to trust what i saw. painters have often taught writers how to see. and once youve had that experience, you see differently.
+
+Accuracy: 100.0%
+Cracking Time: 0.013004302978515625ms
+================================================================================
+
+Original Key: Incomprehensibilities
+Ciphertext
+yugfqkvv h tegkfad wy tmxg pqayjemjegwa bv pizmvfgfu ha wzq dlb dqwmd qm, blwtr vvq azjl fruwnmd oxvyaprnm exxrpjvuiob. dwfmxaoru htt veniefmta ta fwvw makh ge nmal gzm nwewk iglkikhutj, wvqrlqnmd ebbl ljr rsdrvtambfa, twxmmqqwu jkht iyi pqnyqoieqhv, wgorvwytj apxu jmgtpkmqzw vuqiswk. fbx, jzmsmgmk qx au sqizs, kllvr aa upp hxax, ljr vwzvci, alr wfdqemfmrl qs tsmazxf; eav bimcm ba merbthmcti pr gzm pvwg kmed caf dahzxpzr kmoap qg elaeu kabdixhrpw mwmc iggazgeg qmc si. p vremnjpz lbeffvpu ac r wavrwb dwcvxz aavu vvq qcejo csqobpz umemhbtr ptceuil vwxv tv mpi nkynost nepxvfo gwc bam paiuv ha ryeukr, sve pp xhqrlgq fcic rrk wnal, mwzs. b tsgmrf ozs rps m fse xid bam asvrt. ozs yi zevv, tpwv izimf, yukqt x umk, eav q tih wbt sf vug kmivv hrq lpf ktbr zixnrehqs zr alr hcelwm. bb asu n ifqpk vlzrdiuqzv mw qw. k pcbf totsevf qu. pp btckzv zg val ks zir, sve pze mw xjwfv ktpk m zej. hijvemka lsxr qtfte xhytzb xztbxzw zqj vc etv. euh bfkf gzcom lsf gjof totlvvwvdm, jwn aiw fvhtqgvrapl.
+
+Cracked Key: epezoes
+Cracked Text
+ufcgcgdr s pfsgnwo sz fifc ambkfmiuahiw jr aeayrncqq im shm ohc pmeio mn, nhepc rwc whfw bsgsvio kyhuilcjn qtfnafwgewx. osgytikcq ifp dayefribw ew gire ilgi sa vilh hli vspsl uctgtgigpr, sgmsxmvio acnh tfc ntpndplicrw, bsiincmeq ugif ege amokmwepmih, sokcrxkpr watv viopagncve rfmjess. bmt, kliairil ct iq dmjlo, shwrs mw cla dymt, tfc rxlrke, lhs iblmpigynt md ptywhtq; abh xqini cm imnmpiyybe an hli xrhc lyal ylb emdhtavs wiwwa mh qhiaf gbnzqtsnqi iein ehswhcpc ryy ae. a rsqivfav mnanbglv my z slrsix lsnryl wirf rwc mkauk demwxav vyaudmps bpkafem hsfr er nbe vgjjpep vaatwrk osn xby liefr im ngafgs, erm la ticntcb bduy znv somh, usko. c fooicb plo zld i gea feo xby warcp. plo ge kawh, pxsg eauin, ufgrf t civ, abh m bes scf on rfc lyedr snr xln gexs lefjcaico hn lhs tymhhi. cn waq y egcls rwvspecmkr ni me. g aycr pwpdawr mc. la xuoghr kc wmh so kes, erm lka ni trsqr lfls i kak. terrpilm hatc murpm tsuulx fvexyls hmu rd qpd. afd crgn ckypy hab rfpr pwpwrwirli, uso mee bgduccdnllm.
+
+Accuracy: 19.0476%
+Cracking Time: 0.011627674102783203ms
+================================================================================
+
+Total program runtime: 0.07088541984558105
