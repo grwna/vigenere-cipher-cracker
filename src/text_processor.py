@@ -34,3 +34,10 @@ def get_shortest_non_repeating_sequence(text: str) -> str:
             if (prefix*(n//length) == text):
                 return prefix
     return text
+
+def calculate_alphabetic_lengths(text: str) -> int:
+    count : int = 0
+    for char in text:
+        if char.isalpha():
+            count += 1
+    return count
