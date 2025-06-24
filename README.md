@@ -3,7 +3,7 @@
 ## 📖 Description
 This project containts Python implementation of a **Vigenère cipher cracker**. The cracker works by finding key length through **Index of Coincidence** calculation with **Dynammic Programming**
 
-After key length is determined, the string is structured as a matrix, and for each column in that matrix,  test each possible shift (0-25) to see which shift is the most english-like. The English-like calculation is done using **Chi-Squared Goodness Of Fit test**
+After key length is determined, the string is structured as a matrix, and for each column in that matrix,  test each possible shift (0-25) to see which shift is the most english-like. The English-like calculation is done using **Chi-Squared Goodness Of Fit test**. The recovered key is then tested against the original key used using the **Levenshtein Edit Distance** to measure accuracy of the solver.
 
 This project is a part of IF2211 Algorithmic Strategy course's paper titled "*Attack on the Vigenère Cipher Key Through Index of Coincidence Optimization Based on Dynamic Programming*" 
 
@@ -11,30 +11,27 @@ This project is a part of IF2211 Algorithmic Strategy course's paper titled "*At
 - Dynammic Programming
 - Index of Coincidence
 - Chi-Squared Goodness of Fit test
-
+- Levenshtein Edit Distance
 
 ## 📂 Program Structure
 ```
 .
 ├── doc
+│   └── Attack on the Vigenère Cipher Key Through Index of Coincidence Optimization Based on Dynamic Programming.pdf
 ├── LICENSE
 ├── README.md
 ├── src
-│   ├── calculation.py
 │   ├── key_cracker.py
 │   ├── main.py
+│   ├── statistics_tools.py
 │   ├── text_processor.py
 │   └── vigenere.py
 └── test
     ├── keys.txt
-    ├── result1.txt
-    ├── result2.txt
-    ├── result3.txt
-    ├── result4.txt
-    ├── result5.txt
+    ├── results.txt
     └── text.txt
 
-4 directories, 14 files
+4 directories, 11 files
 ```
 
 ## 🚀 How to Use
